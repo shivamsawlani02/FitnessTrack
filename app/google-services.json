@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "431230835656",
+    "firebase_url": "https://bold-bucksaw-275806.firebaseio.com",
+    "project_id": "bold-bucksaw-275806",
+    "storage_bucket": "bold-bucksaw-275806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431230835656:android:0c0a724c6f4dd815207efd",
+        "android_client_info": {
+          "package_name": "com.example.fitnesstrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431230835656-j3p6n9e29g3t7m3dpmgvdq12v8fj6i22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fitnesstrack",
+            "certificate_hash": "0285c8badfd0b185b8ba6a57dd624d98a9219ee0"
+          }
+        },
+        {
+          "client_id": "431230835656-otnfuo674l3ui8vv0av4hn9psk0bphbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmh7CvEQFDvUddaSDd8aotTsJWObqOuNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431230835656-otnfuo674l3ui8vv0av4hn9psk0bphbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
